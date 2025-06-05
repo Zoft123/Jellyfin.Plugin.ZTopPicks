@@ -7,7 +7,7 @@
   "category": "General",
   "version": "1.0.0",
   "targetAbi": "10.8.0.0",
-  "sourceUrl": "https://github.com/Zoft123/Jellyfin.Plugin.ZTopPicks/releases/download/1.0.0/ZTopPicks.dll",
-  "checksum": "c1b103302d188722cf924fd3f4f3997d8041dc924ff3c4df6abe009e2256b7ec",
+  "sourceUrl": "https://github.com/Zoft123/Jellyfin.Plugin.ZTopPicks/releases/download/1.0.0/ZTopPicks.zip",
+  "checksum": "7F7764E6B2C041CB3A19C5CC2D02AB4B",
   "assembly": "ZTopPicks.dll"
 }
