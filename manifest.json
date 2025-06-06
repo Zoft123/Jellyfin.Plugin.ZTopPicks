@@ -1,5 +1,4 @@
-{
-  "Packages": [
+[
     {
       "name": "ZTopPicks",
       "guid": "45de9c0b-6c86-4709-9fc5-b69bac67535b",
@@ -14,5 +13,4 @@
       "checksum": "7F7764E6B2C041CB3A19C5CC2D02AB4B",
       "assembly": "ZTopPicks.dll"
     }
-  ]
-}
+]
